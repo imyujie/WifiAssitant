@@ -1,7 +1,7 @@
 WifiAssitant
 ============
 
-A little and ugly script help you to make your laptop computer become a hotspot. However, it may have many many bugs, for it is a practice of my poor python.
+A little and ugly script help you to make your laptop computer become a hotspot. However, it may have many many bugs, for it is a practice of my poor python and some XML.
 ##Install
 Just download it to your computer directly.
 ##Use
