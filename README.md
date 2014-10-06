@@ -11,7 +11,7 @@ Just download it to your computer directly.
 3. Input your ssid and key, then go to the control pannel to allow sharing Internet.
 
 ##Enviroment
-*Python 2.7
-*Windows 8.1
+* Python 2.7
+* Windows 8.1
 ##Version
 v0.1 (May have lots of bugs)
